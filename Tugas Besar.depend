@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1690527066 source:d:\belajarcpp\tubes\tugas besar\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<conio.h>
+	"Header.h"
+
+1690594427 source:d:\belajarcpp\tubes\tugas besar\source.cpp
+	"Header.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+
+1690594398 d:\belajarcpp\tubes\tugas besar\header.h
+	<iostream>
+	<string>
+
